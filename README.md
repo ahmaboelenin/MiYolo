@@ -4,4 +4,4 @@ MiYolo is a desktop app implemented as simple bbject detector based on Yolov5 an
 
 ![1.png](assets/readme/1.png)
 ![2.png](assets/readme/2.png)
-![1.mp4](assets/readme/1.mp4)
+![1.m4v](assets/readme/1.m4v)
