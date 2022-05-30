@@ -26,4 +26,7 @@ MiYolo is a GUI for YOLOv5 object detection model using tkinter as GUI toolkit a
     10 - View Label - To show the new shape of image/video frame that we change it to fit the canvas.
 
 ![2.png](assets/readme/2.png)
+
+![3.png](assets/readme/3.png)
+
 ![Demo](assets/readme/1.m4v)
