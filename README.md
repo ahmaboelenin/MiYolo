@@ -8,25 +8,22 @@ MiYolo is a GUI for YOLOv5 object detection model using tkinter as GUI toolkit a
 
 - The **image** or **video frame** will be auto resized to fit in the **canvas** but keeping the original file without any resize for saving it later.
 
-- MiYolo will auto resize on the start to fit your primary monitor - if have multiple monitors, with fixed size for the **Toolbox** and free size for the **View Canvas**.
+- MiYolo will auto resize on the start to fit your primary monitor - if have multiple monitors, with fixed size for the **Toolbox** and the rest of the screen size will be for the **View Canvas**.
 
 ![1.png](assets/readme/1.png)
 
     1 - Path/URL Entry - To put the path/url in it.
-
     2 - Get Button - To get the media file the you enter its path/url.
-
     3 - Browse Button - To browse for media file.
-
     4 - Save Button - To save the output file.
-
+    
     5 - Pause Button - To pause the video.
-
     6 - Play Button - To play the video after pause it.
-
     7 - Stop Button - To stop the video.
-
     8 - Replay Button - To replay the video.
+    
+    9 - Actual Label - To show the actual shape of image/video frame.
+    10 - View Label - To show the new shape of image/video frame that we change it to fit the canvas.
 
 ![2.png](assets/readme/2.png)
 ![Demo](assets/readme/1.m4v)
