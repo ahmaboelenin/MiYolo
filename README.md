@@ -12,21 +12,21 @@ MiYolo is a GUI for YOLOv5 object detection model using tkinter as GUI toolkit a
 
 ![1.png](assets/readme/1.png)
 
-    1 - **Path/URL** Entry - To put the path/url in it.
+    1 - Path/URL Entry - To put the path/url in it.
 
-    2 - **Get** Button - To get the media file the you enter its path/url.
+    2 - Get Button - To get the media file the you enter its path/url.
 
-    3 - **Browse** Button - To browse for media file.
+    3 - Browse Button - To browse for media file.
 
-    4 - **Save** Button - To save the output file.
+    4 - Save Button - To save the output file.
 
-    5 - **Pause** Button - To pause the video.
+    5 - Pause Button - To pause the video.
 
-    6 - **Play** Button - To play the video after pause it.
+    6 - Play Button - To play the video after pause it.
 
-    7 - **Stop** Button - To stop the video.
+    7 - Stop Button - To stop the video.
 
-    8 - **Replay** Button - To replay the video.
+    8 - Replay Button - To replay the video.
 
 ![2.png](assets/readme/2.png)
 ![Demo](assets/readme/1.m4v)
