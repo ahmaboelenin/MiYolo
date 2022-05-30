@@ -8,7 +8,7 @@ MiYolo is a GUI for YOLOv5 object detection model using tkinter as GUI toolkit a
 
 - The **image** or **video frame** will be auto resized to fit in the **canvas** but keeping the original file without any resize for saving it later.
 
-- MiYolo will auto resize on the start to fit your primary monitor - if have multi monitors, with fixed size for the **Toolbox** and free size for the **View Canvas**.
+- MiYolo will auto resize on the start to fit your primary monitor - if have multiple monitors, with fixed size for the **Toolbox** and free size for the **View Canvas**.
 
 ![1.png](assets/readme/1.png)
 
